@@ -5,4 +5,4 @@ Alongside mastering Python and the fundamentals of web development, I am activel
 
 - 💀 Hi, I’m @Dollahann a beginning web backend programmer
 - 🌱 I’m currently learning python and it`s web frameworks
-- 📫 Contacts: Telegram - @Dollahann
+- 📫 Contacts: Telegram - @Dollahann, YandexPost - Dollahant@ya.ru
